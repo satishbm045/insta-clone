@@ -18,3 +18,10 @@ export const likedPost = (postData) => {
 		data: postData
 	}
 }
+
+export const sortThePost = (flag) => {
+	return {
+		type: "SORT_POST",
+		data: flag
+	}
+}
