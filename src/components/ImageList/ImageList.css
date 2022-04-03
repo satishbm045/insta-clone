@@ -13,7 +13,14 @@
     object-fit: cover;
 	cursor: pointer;
 }
-
+.postHeading{
+	font-size: 18px;
+}
+.checkBox{
+	width: 14px;
+	height: 14px;
+	cursor: pointer;
+}
 .data{ 
 	width: 300px;
     display: flex;
