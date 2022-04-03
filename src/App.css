@@ -1,0 +1,22 @@
+.App {
+  width: 100%;
+}
+.heading {
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  line-height: 32px;
+}
+.main{
+  display: flex;
+  width: 100%;
+  height: calc(100% - 72px);
+  position: absolute;
+}
+.leftSide{
+  width: 40%;
+}
+
+.rightSide{
+  width: 60%;
+}
